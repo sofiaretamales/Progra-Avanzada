@@ -1,0 +1,42 @@
+/sonidos
+/sprites
+Enunciado.pdf
+Enunciado(imprimible).pdf
+puntajes.txt
+aparicion_zombies.py
+prueba_juego.py
+ventana_juego.ui
+ventana_juego_nocturno.ui
+main_copy.py
+frontend/parametros.py
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# Support for Project snippet scope
+.vscode/*.code-snippets
+
+# Ignore code-workspaces
+*.code-workspace

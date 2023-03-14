@@ -1,0 +1,8 @@
+{
+    "HOST": "localhost",
+    "PORT": 47365,
+    "RUTA_VENTANA_INICIO": ["frontend", "ventanas", "ventana_inicio.ui"],
+    "RUTA_VENTANA_ESPERA": ["frontend", "ventanas", "ventana_espera.ui"],
+    "RUTA_VENTANA_JUEGO": ["frontend", "ventanas", "ventana_juego.ui"],
+    "CUENTA_REGRESIVA_INICIO": 5
+}
