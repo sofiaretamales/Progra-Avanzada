@@ -1,0 +1,11 @@
+sofia, 390
+pato, 33 
+paola, 18 
+pato, 0 
+gato, 18 
+rosa, 300
+juan, 500
+pedro, 20
+lucia, 88
+fernando, 90
+domingo, 14
