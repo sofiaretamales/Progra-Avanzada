@@ -45,12 +45,12 @@ MAX_CARACTERES = 15
 ANCHO_VENTANA = 840
 LARGO_VENTANA = 570
 #Rutas
-RUTA_VENTANA_JUEGO_DIA = join('sprites', 'Ventanas', 'ventana_juego_abuela.ui' )
-RUTA_VENTANA_JUEGO_NOCTURNO = join('sprites', 'Ventanas', 'ventana_juego_nocturno.ui')
-RUTA_VENTANA_RANKING = join('sprites', 'Ventanas', 'ventana_ranking.ui')
-RUTA_VENTANA_POSTRONDA_GANADOR = join('sprites', 'Ventanas', 
+RUTA_VENTANA_JUEGO_DIA = join('Ventanas', 'ventana_juego_abuela.ui' )
+RUTA_VENTANA_JUEGO_NOCTURNO = join('Ventanas', 'ventana_juego_nocturno.ui')
+RUTA_VENTANA_RANKING = join('Ventanas', 'ventana_ranking.ui')
+RUTA_VENTANA_POSTRONDA_GANADOR = join('Ventanas', 
                                       'ventana_postronda_ganador.ui')
-RUTA_VENTANA_POSTRONDA_PERDEDOR = join('sprites', 'Ventanas', 
+RUTA_VENTANA_POSTRONDA_PERDEDOR = join('Ventanas', 
                                        'ventana_postronda_perdedor.ui')
 RUTA_PUNTAJES = join('puntajes.txt')
 RUTA_ZOMBIE_CLASICO_CAMINANDO_1 = join('sprites', 'Zombies', 'Caminando',
